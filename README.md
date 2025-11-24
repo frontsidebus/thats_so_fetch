@@ -1,6 +1,3 @@
-Here is a professional README.md file tailored for your internal security engineering repository. I have added a section specifically on how to automate this with **GitHub Actions**, which solves your requirement of not wanting to run this manually.  
----
-
 # **Shai-Hulud Threat Intel Fetcher**
 
 ## **Overview**
